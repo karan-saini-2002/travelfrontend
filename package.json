@@ -4,7 +4,7 @@
   "description": "A simple frontend project",
   "main": "index.html",
   "scripts": {
-    "start": "http-server -c-1 -o",
+    "start": "http-server -c-1 -o"
    
   },
   "author": "Your Name",
