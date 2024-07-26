@@ -220,14 +220,7 @@ header.jumbotron.text-center {
    text-align: center; 
 }
 
-.navbar-nav.ml-aut{
-  margin-left: 35%;
-}
-@media screen and (max-width: 768px) {
-  .navbar-nav.ml-aut{
-    margin-left:0%;
-  }
-}
+
 
 
 footer.text-center.mt-5 a {
